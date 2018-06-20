@@ -5,3 +5,4 @@ Fully Fledge Departure control system
 > PNL / ADL
 > Online Check-In
 > Interactive Seat Map
+> Reporting
